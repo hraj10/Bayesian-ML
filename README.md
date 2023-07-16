@@ -5,7 +5,7 @@ Generally speaking, breast cancer is a disease where a group of abnormal or dama
 
 Therefore, for an assignment at LSE, I deployed and evaluated a number of Bayesian machine-learning techniques based on their capabilities to correctly distinguish benign from malignant tumours through the use of multiple control variables. Following previous research, I used the benchmark dataset for many machine learning applications, the Wisconsin Breast Cancer dataset. 
 
-This repository contains the associated code with two main files: 
+This repository contains two main files: 
 
 ## Bayesian classification on Wisconsin breast cancer data.ipynb 
 
